@@ -1,0 +1,12 @@
+{
+  "name": "Wisely Wired",
+  "description": "A little AI assistant with prompt engineering.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": [],
+  "web_accessible_resources": []
+}
